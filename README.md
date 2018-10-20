@@ -1,1 +1,1 @@
-pierwsza zmiana
+zmiana w pierwszej gałęzi
